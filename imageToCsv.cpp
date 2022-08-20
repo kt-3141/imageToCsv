@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include "opencv2/opencv.hpp"
-//test
+//test2
 int main(void){
 	std::string imageName;
 	std::cout << "start process" << std::endl;
